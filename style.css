@@ -27,6 +27,6 @@ img{
     transition: transform .3s linear;
 }
 
-img:hover{
+img:hover, img:focus{
     transform: scale(1.1);
 }
